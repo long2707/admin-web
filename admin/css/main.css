@@ -1,0 +1,160 @@
+.border-bt{
+    border-bottom: 1px solid #ddd;
+}
+.drop-menu{
+    min-width: 168px!important;
+}
+.icon-box{
+    vertical-align: -1px;
+}
+a{
+    text-decoration: none;
+}
+.sb-sidenav-menu .nav li{
+
+    line-height: 30px;
+}
+.sb-sidenav-menu .nav li a{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+}
+.sb-sidenav-menu .nav li a i{
+    font-size: 22px;
+    padding-right: 5px
+}
+.sb-sidenav-menu .nav li a:hover{
+    color: #0b87c9;
+}
+.sb-sidenav-menu .nav li.active a{
+    background-color: white !important;
+    border-right: 3px solid #2B7DBC;
+    color: #0b87c9;
+    border-radius: 4px;
+}
+.padding-top{
+    padding-top: 40px;
+}
+.icon-check{
+    position: relative;
+    top: 2px;
+    font-size: 20px;
+}
+
+.content-heading{
+    display: inline-block;
+    border-bottom: 4px solid #0B87C9;
+    margin-top: 5px;
+    padding-bottom: 3px;
+     font-size: 18px;
+    color: #0B87C9;
+    line-height: 1.1;
+    font-weight: 500;
+}
+.margin-top{
+    margin-top: 20px;
+}
+.card-body{
+    
+    color: #fff;
+    padding: 10px 0 10px 20px;
+    overflow: hidden;
+    min-height: 75px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+
+}
+.card-body i.bx{
+    font-size: 40px;
+    float: left;
+}
+.card-body-price{
+    float: right;
+    width: 75%;
+}
+.card-body-price h3{
+    font-size: 18px;
+    margin: 0;
+}
+.card-body-price span{
+    font-size: 22px;
+}
+.container-heading{
+    margin: 0;
+    color: #307ECC;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 50px; 
+}
+.bg-sm{
+    background-color:#d6d2d2;
+}
+.display-flex{
+    display: flex;
+    justify-content:space-between;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+.container-add{
+    margin-top: 12px;
+    margin-bottom: 12px
+}
+.container-list{
+    background-color: #f2f4d7;
+    margin-bottom: 50px;
+}
+.container-add a i{
+    margin-right: 5px;
+}
+button i.bx{
+    font-size: 25px!important;
+    margin-right: 9px;
+}
+.control-flie{
+    border: none !important;
+}
+.form-group{
+    margin-bottom: 15px;
+    display: flex;
+}
+.padd-left-0{
+    padding-right: 15px;
+}
+.modal{
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+}
+.modal-dialog{
+    width: 350px;
+    height: 300px;
+    background-color: #0B87C9;
+}
+.form-floating label{
+    color: #333;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+.card-body-1{
+    padding: 10px 20px 10px 20px;
+}
+.form-con{
+padding-top: 10px;
+padding-bottom: 10px;
+display: block;
+width: 100%;
+margin-bottom: 5px;
+font-weight: 700;
+color: #000;
+}
+.form-con:focus{
+    border: 2px solid #0b87c9;
+    outline: #0b87c9;
+}
+.justin-content{
+    justify-content: center;
+}
